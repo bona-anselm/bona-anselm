@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bona-anselm
 - 👀 I’m interested in learning full-stack development
-- 🌱 I’m currently learning Google Cloud and have been accepted in ALX software engineering schorlaship
+- 🌱 I’m currently learning Google Cloud and have been accepted in ALX software engineering schorlaship program
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me is via my email - bona.anselm@gmail.com
 
